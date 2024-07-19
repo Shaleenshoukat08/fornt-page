@@ -77,7 +77,7 @@
       }
       @media screen and (max-width: 400px){
         .navbar2 {
-          margin-top: 28%;
+          margin-top: 25%;
           
           }
           .navbar2 .nav-data{
@@ -85,6 +85,3 @@
             margin: 0px 5px 0px 5px;
           }
       }
-.collegename {
-  margin-top: 40%;
-}
